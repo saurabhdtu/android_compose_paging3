@@ -1,0 +1,19 @@
+[debug] [2026-01-29T10:44:30.860Z] ----------------------------------------------------------------------
+[debug] [2026-01-29T10:44:30.868Z] Command:       /opt/homebrew/Cellar/node/23.7.0/bin/node /opt/homebrew/bin/firebase init
+[debug] [2026-01-29T10:44:30.868Z] CLI Version:   14.27.0
+[debug] [2026-01-29T10:44:30.868Z] Platform:      darwin
+[debug] [2026-01-29T10:44:30.868Z] Node Version:  v23.7.0
+[debug] [2026-01-29T10:44:30.869Z] Time:          Thu Jan 29 2026 16:14:30 GMT+0530 (India Standard Time)
+[debug] [2026-01-29T10:44:30.869Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/saurabhlahoti/Documents/work/samples/compose
+

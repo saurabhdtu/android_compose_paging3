@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138713705857",
+    "project_id": "compose-sample-7f877",
+    "storage_bucket": "compose-sample-7f877.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138713705857:android:4803426692109da1ac4c80",
+        "android_client_info": {
+          "package_name": "com.sample.compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACA7kq73in0Zt7kx9rYVee3qgfdP1Js5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
